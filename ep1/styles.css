@@ -8,7 +8,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 /* Some default styles to make each box visible */
 .box {
     color:white;
-    font-size: 70px;
+    font-size: 100px;
     text-align: center;
     text-shadow:4px 4px 0 rgba(0,0,0,0.1);
     padding:10px;
@@ -32,11 +32,4 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
     display: flex;
     border: 10px solid red;
     height: 100vh;
-    flex-wrap: wrap;
-    align-content: centergit;
-    justify-content: center;
-}
-
-.box {
-    width: 33.333%;
 }

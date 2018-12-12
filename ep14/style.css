@@ -46,7 +46,6 @@ a:hover {
   flex: 2; /* This is display item */
   text-align: center;
   display: flex; /* This id display container */
-  align-items: stretch;
 }
 
 .slider-nav .arrow {
@@ -62,4 +61,8 @@ a:hover {
 .slider-nav span {
   display: block;
   width: 100%;
+}
+
+.slider-nav .arrow a {
+  font-size: 30px;
 }
